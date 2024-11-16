@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  height: 100vh;
+}
+
+.cherry-image {
+  flex: 1;
+  background-color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column; 
+}
+
+.tart-and-sweet {
+  margin-top: 20px; 
+  font-size: 60px;
+}
+
+.gray-box {
+  flex: 1;
+  background-color: gray;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
